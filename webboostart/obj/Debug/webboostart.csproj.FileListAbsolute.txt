@@ -1,0 +1,9 @@
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\bin\webboostart.dll.config
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\bin\webboostart.dll
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\bin\webboostart.pdb
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\obj\Debug\webboostart.csprojResolveAssemblyReference.cache
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\obj\Debug\webboostart.csproj.CoreCompileInputs.cache
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\obj\Debug\webboostart.dll
+c:\users\unicomfacauca\source\repos\webboostart\webboostart\obj\Debug\webboostart.pdb
